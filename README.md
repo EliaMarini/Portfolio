@@ -9,7 +9,7 @@
 <h2> 📫 How to reach me: ...</h2>
 E-mail:<b> eliamarini1999@gmail.com</b>
 <br />
-Linkedin: [Elia Marini](https://linkedin.com/in/elia-marini-0b9b62184)
+Linkedin: https://linkedin.com/in/elia-marini-0b9b62184
 
 
 <!--
