@@ -9,6 +9,8 @@
   - [Phishing e-mail analysis](https://github.com/EliaMarini/Phishing-e-mail-analysis)
 - <b>Malware analysis</b>
   - [Malware analysis](https://github.com/EliaMarini/Malware-Analysis)
+- <b>SOC L1 simulation</b>
+  - [SOC L1 simulation](https://github.com/EliaMarini/SOC-L1-Simulation.git)
 <!--- <b>Project</b>
   - [project](linktotheproject)
   - 
